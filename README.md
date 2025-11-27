@@ -28,56 +28,104 @@
 
 # 🚀 **Highlighted Projects (with Live Apps + Repos)**
 
-### *Fully animated section — all links clickable & neat.*
+Got it!
+You want your **project descriptions properly spaced**, with **each point on a new line**, **NOT continuous**.
 
+I will fix ONLY the project section formatting — keeping your entire README exactly as you want, but with **clean, readable bullet points**.
+
+Here is your corrected **project section (copy–paste)**:
+
+---
+
+# 🚀 **Highlighted Projects (with Live Apps + Repos)**
+
+---
 
 ## 🛍️ **Retail Sales Performance Analytics (SQL + Power BI)**
 
-📌 **Repo:** [https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
+📌 **Repo:**
+[https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
+
 ✨ Designed a **Retail Star Schema**, analyzed KPIs, and delivered BI insights using SQL + Power BI.
+
 🔹 Sales, Growth, Profit KPIs
 🔹 ETL + Data Cleaning
 🔹 Region-wise patterns & insights
 
+---
 
 ## 🏆 **Titanic Survival Prediction (ML + Streamlit)**
 
-📌 **Repo:** [https://github.com/snehuuu28/Titanic-Survival-Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)
-🔗 **Live App:** [https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
+📌 **Repo:**
+[https://github.com/snehuuu28/Titanic-Survival-Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)
+
+🔗 **Live App:**
+[https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
+
 ✨ Machine Learning classification model with EDA + feature engineering
+
 🔹 Logistic Regression, Decision Tree
 🔹 User-friendly Streamlit App
 
-
+---
 
 ## ☀️ **Solar Panel Efficiency Analysis**
 
-📌 **Repo:** [https://github.com/snehuuu28/Solar-Panel-Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)
-🔗 **Live App:** [https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
+📌 **Repo:**
+[https://github.com/snehuuu28/Solar-Panel-Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)
+
+🔗 **Live App:**
+[https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
+
 ✨ Regression modeling & power output analysis
 
-
+---
 
 ## 📡 **Telecommunication Customer Churn**
 
-📌 **Repo:** [https://github.com/snehuuu28/Telecom-Churn-Prediction](https://github.com/snehuuu28/Telecom-Churn-Prediction)
-🔗 **Live App:** [https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
+📌 **Repo:**
+[https://github.com/snehuuu28/Telecom-Churn-Prediction](https://github.com/snehuuu28/Telecom-Churn-Prediction)
+
+🔗 **Live App:**
+[https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
+
 ✨ XGBoost + RF models delivering **92% accuracy**
+
 🔹 SHAP insights
 🔹 Churn probability dashboard
 
+---
 
 ## 🏥 **Life Expectancy Prediction**
 
-📌 **Repo:** [https://github.com/snehuuu28/Life-Expectancy-Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)
-🔗 **Live App:** [https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
+📌 **Repo:**
+[https://github.com/snehuuu28/Life-Expectancy-Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)
+
+🔗 **Live App:**
+[https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
+
 ✨ Predicting global life expectancy using socio-economic indicators
 
+---
 
 ## 🛒 **Amazon Web Scraping (Laptops + iPhone Reviews)**
 
-📌 **Repo:** [https://github.com/snehuuu28/Amazon-Web-Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)
+📌 **Repo:**
+[https://github.com/snehuuu28/Amazon-Web-Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)
+
 ✨ Scraped laptop details & iPhone 15 reviews using Selenium + BeautifulSoup
+
+📂 **Important Files:**
+
+* 🔖 Laptop Scraper
+  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)
+* 🔖 iPhone Review Scraper
+  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)
+* 📊 Laptop Dataset
+  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)
+* 📊 iPhone Reviews
+  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)
+
 
 📂 **Important Files:**
 
