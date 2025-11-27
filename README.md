@@ -1,4 +1,4 @@
-# <img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="200"/>
+![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
 
 <h1 align="center">✨ Hi, I'm Snehal Gawade! 👋</h1>
 <h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
