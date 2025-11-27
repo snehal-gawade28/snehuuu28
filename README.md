@@ -1,15 +1,14 @@
 ![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+ML+%7C+Analytics+%7C+NLP+🚀" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=plastic" alt="Snehal Gawade Profile Views"/>
 </p>
+
 
 <img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=flat" />
 </p>
-
----
 
 # 🌟 About Me
 - 🎓 Data Science Postgraduate with strong ML & Analytics expertise  
@@ -18,8 +17,6 @@
 - 📊 Love creating **interactive dashboards, clean datasets, and automation workflows**  
 - 🌱 Learning **Deep Learning, Time Series & Cloud**  
 - 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
-
----
 
 # 🚀 Highlighted Projects (with Live Apps + Repos)
 
