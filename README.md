@@ -1,4 +1,4 @@
-![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
+![logo](https://github.com/snehal-gawade28/snehal-gawade28/blob/main/image.png)
 
 <!-- 🔹 DARK MODE PROFILE VIEWS (WORKING) -->
 
@@ -18,11 +18,10 @@
 
 # 🚀 Highlighted Projects (with Live Apps + Repos)
 
-
 ## 🛍️ Retail Sales Performance Analytics (SQL)
 
 **Repo:**  
-https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project
+https://github.com/snehal-gawade28/Retail-Sales-Analysis-SQL-Project
 
 **What I did:**  
 - Designed a **Retail Star Schema** (FactSales, DimCustomer, DimProduct, DimRegion)  
@@ -36,7 +35,7 @@ https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project
 ## 🏆 Titanic Survival Prediction (ML + Streamlit)
 
 **Repo:**  
-https://github.com/snehuuu28/Titanic-Survival-Prediction
+https://github.com/snehal-gawade28/Titanic-Survival-Prediction
 
 **Live App:**  
 https://titanic-survival-prediction-app1.streamlit.app/
@@ -52,7 +51,7 @@ https://titanic-survival-prediction-app1.streamlit.app/
 ## ☀️ Solar Panel Efficiency Analysis
 
 **Repo:**  
-https://github.com/snehuuu28/Solar-Panel-Analysis
+https://github.com/snehal-gawade28/Solar-Panel-Analysis
 
 **Live App:**  
 https://solar-panel-prediction-app.streamlit.app/
@@ -68,7 +67,7 @@ https://solar-panel-prediction-app.streamlit.app/
 ## 📡 Telecommunication Customer Churn
 
 **Repo:**  
-https://github.com/snehuuu28/Telecom-Churn-Prediction
+https://github.com/snehal-gawade28/Telecom-Churn-Prediction
 
 **Live App:**  
 https://telecommunications-churn-prediction-app.streamlit.app/
@@ -84,7 +83,7 @@ https://telecommunications-churn-prediction-app.streamlit.app/
 ## 🏥 Life Expectancy Prediction
 
 **Repo:**  
-https://github.com/snehuuu28/Life-Expectancy-Prediction
+https://github.com/snehal-gawade28/Life-Expectancy-Prediction
 
 **Live App:**  
 https://life-expectancy-prediction.streamlit.app/
@@ -100,7 +99,7 @@ https://life-expectancy-prediction.streamlit.app/
 ## 🛒 Amazon Web Scraping (Laptops + iPhone Reviews)
 
 **Repo:**  
-https://github.com/snehuuu28/Amazon-Web-Scraping
+https://github.com/snehal-gawade28/Amazon-Web-Scraping
 
 **What I did:**  
 - Built Selenium + BeautifulSoup scrapers  
@@ -110,13 +109,13 @@ https://github.com/snehuuu28/Amazon-Web-Scraping
 
 **Important files:**  
 - Laptop Scraper →  
-  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb  
+  https://github.com/snehal-gawade28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb  
 - iPhone Review Scraper →  
-  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb  
+  https://github.com/snehal-gawade28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb  
 - Laptop Dataset →  
-  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv  
+  https://github.com/snehal-gawade28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv  
 - iPhone Reviews Dataset →  
-  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv  
+  https://github.com/snehal-gawade28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv  
 
 ---
 
@@ -136,8 +135,8 @@ https://github.com/snehuuu28/Amazon-Web-Scraping
 # 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehal-gawade28&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-gawade28&theme=tokyonight" />
 </p>
 
 ---
@@ -145,7 +144,7 @@ https://github.com/snehuuu28/Amazon-Web-Scraping
 # 🔥 Contribution Graph (Dark)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=chartreuse-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal-gawade28&theme=chartreuse-dark&hide_border=true&area=true" />
 </p>
 
 ---
